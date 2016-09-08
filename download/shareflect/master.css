@@ -1,0 +1,20 @@
+body {background:#4ca0d7;margin:0;font-family:verdana;color:#3c3a36;}
+div#header {height:120px;}
+div#header a {float:left;}
+div#header a img {border:none;margin-top:30px;margin-left:10px;}
+div#header h1 { margin:0;padding:0;width:298px;height:102px;background:url('Shareflect_Logo.png') }
+a.link { position:relative; text-decoration:none; font:12px verdana; color:#3f87b5; border-bottom:1px dotted #3f87b5; } 
+a.link:hover { color: #ff33cc; border-bottom: 1px solid #ff33cc; }
+a.groups { float:left; text-decoration:none; font:13px verdana; color: #3c3a36; }
+a.groups:hover { color:#ff33cc; }
+a.groups div { width:160px;height:100px;border:1px solid #333;float:left; }
+a.groups p { margin-top:105px;text-align:center; }
+a.event {font:14px verdana;text-decoration:none;color: #3c3a36;font-weight:bold;}
+a.event:hover { color:#ff33cc;}
+a.event img {float:left;border:1px solid #333;}
+div#latest{ width:345px;float:left;font:11px verdana;}
+div#latest div { padding-top:9px;padding-bottom:9px;margin-left:25px;border-top:1px dotted #ccc;line-height:14px;}
+div#latest img {}
+div#latest div span {display:block;margin-top:4px;font-size:10px;}
+div#eventlist{float:left;width:275px;margin-left:15px;font-size:11px;}
+div#eventlist div {padding-top:8px;padding-bottom:8px;border-top: 1px dotted #ccc;}
